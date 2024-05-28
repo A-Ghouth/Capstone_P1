@@ -3,6 +3,8 @@
 ## Overview
 This repository contains the code and configuration files for a capstone project focused on cloud infrastructure automation and serverless computing. The project utilizes a variety of tools and technologies to provision, manage, and deploy cloud-based resources.
 
+![project_2](https://github.com/A-Ghouth/Cloud-Native-Data-Engineering/assets/154764214/b9abcb7e-9610-433c-8e17-ca60335e4cff)
+
 ## Project Components
 The project is organized into the following main components:
 
